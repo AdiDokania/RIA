@@ -1,3 +1,17 @@
+# My folders
+
+Screenshots/
+Reports/
+Logs/
+allure-report/
+Configuration\__pycache__\config.cpython-39.pyc
+
+# My Files
+amazon.log
+.idea/
+*.log
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
